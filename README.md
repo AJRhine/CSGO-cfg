@@ -5,6 +5,7 @@ An autoexec.cfg file is used to guarenttee that your personal settings for the g
 
 ### How to Use an Autoexec
 First you need to add `.cfg` file named `autoexec` in your CS:GO cfg folder.  This folder can be found at:
+        
         `...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg`
 
 Next need to set CS:GO's launch options to execute your autoexec.cfg
