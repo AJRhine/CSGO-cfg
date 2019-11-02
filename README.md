@@ -1,7 +1,9 @@
 # CSGO-cfg
-This is my Counter-Strike : Global Offensive autoexec config.
+This is my Counter-Strike : Global Offensive autoexec config. 
 
-An autoexec.cfg file is used to guarenttee that your personal settings for the game CS:GO (Counter Strike : Global Offensive) will always be set when you launch the game.  An autoexec can be useful if you have or play on multiple computers by keeping your settings the same across all computers.  
+An autoexec.cfg file is used to guarenttee that your personal settings for the game CS:GO (Counter Strike : Global Offensive) will always be set when you launch the game.  An autoexec can be useful if you have or play on multiple computers by keeping your settings the same across all computers.
+
+Feel free to use my autoexec or take any commands you would like to add to your own autoexec.
 
 ### How to Use an Autoexec
 First you need to add `.cfg` file named `autoexec` in your CS:GO cfg folder.  This folder can be found at:
