@@ -8,7 +8,7 @@ First you need to add `.cfg` file named `autoexec` in your CS:GO cfg folder.  Th
         
         ...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
 
-Next need to set CS:GO's launch options to execute your autoexec.cfg
+Next need to set CS:GO's launch options to execute your autoexec.cfg every time you load the game.
 
 To set your launch options your need to:
         
